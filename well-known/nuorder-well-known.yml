@@ -1,0 +1,27 @@
+generated: '2026-07-20'
+method: probed
+source: live probes of /.well-known/ on nuorder hosts
+notes: >-
+  app.nuorder.com/.well-known/security.txt returns HTTP 200 but serves the SPA
+  HTML shell (content-type text/html, the NuORDER app index) rather than a valid
+  RFC 9116 security.txt, so it is recorded as absent. No valid well-known
+  discovery documents were found on any host.
+hosts:
+- host: https://www.nuorder.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+- host: https://api.nuorder.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+- host: https://app.nuorder.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    valid: false
+    note: SPA HTML shell, not a valid security.txt

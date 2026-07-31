@@ -1,0 +1,23 @@
+# NuORDER by Lightspeed
+
+> NuORDER is a global B2B commerce platform (owned by Lightspeed) for wholesale buying and selling between brands and retailers. It combines a fully-branded wholesale eCommerce storefront, an Assortments planning tool for data-driven buying, and a Marketplace connecting buyers to 3,000+ brands across fashion, footwear, and apparel. A partner-gated REST API at api.nuorder.com syncs products, orders, and customer data with ERP, PIM, and other commerce systems.
+
+## About
+- [NuORDER website](https://www.nuorder.com): Company and product overview.
+- [Marketplace](https://www.nuorder.com/marketplace/): Buyer destination browsing 3,000+ brands.
+- [Contact](https://www.nuorder.com/contactus/): Sales and general contact.
+
+## API and Integration
+- [NuORDER API host](https://api.nuorder.com): Partner-gated REST API for products, orders, catalogs, and customers. Access is provisioned to partners; no public OpenAPI specification is published.
+
+## Docs and Support
+- [Learning & Support](https://learning-support.nuorder.com/): Product knowledge base and learning center.
+- [Help Desk](https://helpdesk.nuorder.com/hc/en-us/): Customer help center.
+
+## Blog and Legal
+- [Blog](https://blog.nuorder.com/): Company and industry updates.
+- [Terms and Conditions](https://www.nuorder.com/terms-and-conditions/): Terms of service.
+- [Privacy Policy](https://www.lightspeedhq.com/legal/privacy-policy/): Lightspeed privacy policy.
+
+## Sign In
+- [NuORDER app](https://app.nuorder.com/): Buyer/brand login.
