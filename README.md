@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NuORDER is a company surfaced as a portfolio company of cowboy-ventures and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+NuORDER by Lightspeed is a global B2B commerce platform for wholesale buying and selling between brands and retailers. It combines a fully-branded wholesale eCommerce storefront with account-specific pricing and discounts, an Assortments planning tool for data-driven buying and reduced markdowns, and a Marketplace that connects buyers to 3,000+ brands across fashion, footwear, and apparel. NuORDER exposes a partner-gated REST API at api.nuorder.com for syncing products, orders, catalogs, and customer data with ERP, PIM, and other commerce systems. Acquired by Lightspeed in 2021, it is used by brands including Arc'teryx, Kendra Scott, TOMS, Barbour, and Canada Goose.
 
-Backed by: cowboy-ventures — https://www.nuorder.com
+**Areas:** Company · Enterprise · B2B Commerce · Wholesale · E-Commerce · Retail · Fashion · Order Management · Marketplace
+
+## NuORDER on APIs.io
+
+Everything profiled for NuORDER is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nuorder/](https://apis.io/providers/nuorder/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nuorder Domain Security](https://apis.io/security/nuorder/nuorder-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nuorder.com)
+- [Support](https://learning-support.nuorder.com/)
+- [Blog](https://blog.nuorder.com/)
+- [Terms of service](https://www.nuorder.com/terms-and-conditions/)
+- [Privacy policy](https://www.lightspeedhq.com/legal/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 12.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nuorder/](https://apis.io/providers/nuorder/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NuORDER: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nuorder/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
